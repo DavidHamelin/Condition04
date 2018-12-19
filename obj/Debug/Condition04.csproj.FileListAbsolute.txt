@@ -4,3 +4,4 @@ C:\Users\Dell\source\repos\LesConditions\Condition04\bin\Debug\Condition04.pdb
 C:\Users\Dell\source\repos\LesConditions\Condition04\obj\Debug\Condition04.csproj.CoreCompileInputs.cache
 C:\Users\Dell\source\repos\LesConditions\Condition04\obj\Debug\Condition04.exe
 C:\Users\Dell\source\repos\LesConditions\Condition04\obj\Debug\Condition04.pdb
+C:\Users\Dell\source\repos\LesConditions\Condition04\obj\Debug\Condition04.csprojAssemblyReference.cache
